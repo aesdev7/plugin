@@ -1,7 +1,7 @@
 # In search for the optimal persistence mechanism
 
-# A plug-in database (hosting apps projects) stored in a shelve. 
-# Python modules : 
+A plug-in database (hosting apps projects) stored in a shelve. 
+Python modules : 
       - pickle       : 
       
       - shelve       :      Open the shelve file, and access it through a dictionary-like API.
